@@ -1,0 +1,2 @@
+# menyederhanakan-pecahan
+tugas UAS
